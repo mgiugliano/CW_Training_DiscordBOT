@@ -1,0 +1,17 @@
+# Schedule for CW Bot
+# Format: HH:MM | WPM | Farnsworth | PITCH | "String to Encode"
+# Times are in UTC (24-hour format)
+# WPM: Words Per Minute, Integer
+# Farnsworth: Spacing speed, Integer or "None"
+# PITCH: Audio frequency in Hz, Integer
+# String: Text to be converted to Morse code
+
+# Example Schedules
+12:00 | 20 | None | 700 | "CQ CQ CQ DE W1AW"
+12:15 | 25 | 15   | 600 | "The quick brown fox jumps over the lazy dog"
+12:30 | 18 | None | 750 | "QTH IS NEWINGTON CT"
+12:45 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+
+# Evening Session
+18:00 | 20 | None | 700 | "MSG DE W1AW NR 1"
+18:15 | 22 | None | 700 | "PSE K"
