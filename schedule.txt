@@ -20,6 +20,12 @@
 15:21 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
 15:22 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
 
+15:27 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:28 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:29 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:30 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:31 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+
 
 # Evening Session
 18:00 | 20 | None | 700 | "MSG DE W1AW NR 1"
