@@ -12,6 +12,15 @@
 12:30 | 18 | None | 750 | "QTH IS NEWINGTON CT"
 12:45 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
 
+15:16 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:17 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:18 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:19 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:20 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:21 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+15:22 | 30 | 20   | 550 | "VVV VVV VVV DE W1AW"
+
+
 # Evening Session
 18:00 | 20 | None | 700 | "MSG DE W1AW NR 1"
 18:15 | 22 | None | 700 | "PSE K"
